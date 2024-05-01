@@ -6,7 +6,6 @@ Here's a quick overview of my background and interests:
 #### 📚 Current Education
 - **Houston Community College (HCC)**, Houston, TX  
   *Associate of Applied Science in Artificial Intelligence*  
-  GPA: 4.00 | Dean's List | Dec 2024  
 
 #### 🌟 Certifications
 - **Dell Technologies**: Excel with Dell (Mentorship)  
@@ -24,5 +23,5 @@ Here's a quick overview of my background and interests:
 - **Detecting Harmful Text in Online Platforms**: Developed a model that achieved 92.5% accuracy, significantly outperforming existing solutions, presented at the annual Gulf Coast Conference & Expo on AI, 2024.  
 - **Real vs. AI-Generated Profile Picture Classification**: Ongoing Computer Vision project to distinguish real from GenAI-generated profile pictures.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tales-leonidas/)
-- 💬 [Hugging Face](https://huggingface.co/TLeonidas)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tales-leonidas/)
+- 🤗 [Hugging Face](https://huggingface.co/TLeonidas)
