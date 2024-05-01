@@ -1,6 +1,7 @@
-### Hello there! 👋
+### Hello there!
 
-I'm an enthusiastic Artificial Intelligence sophomore at Houston Community College (HCC), passionate about leveraging AI technologies to create innovative and reliable solutions. Here's a quick overview of my background and interests:
+I'm an enthusiastic Artificial Intelligence sophomore at Houston Community College (HCC), passionate about leveraging AI technologies to create innovative and reliable solutions. 
+Here's a quick overview of my background and interests:
 
 #### 📚 Education
 - **Houston Community College (HCC)**, Houston, TX  
@@ -23,5 +24,5 @@ I'm an enthusiastic Artificial Intelligence sophomore at Houston Community Colle
 - **Detecting Harmful Text in Online Platforms**: Developed a model that achieved 92.5% accuracy, significantly outperforming existing solutions, presented at the annual Gulf Coast Conference & Expo on AI, 2024.  
 - **Real vs. AI-Generated Profile Picture Classification**: Ongoing Computer Vision project to distinguish real from GenAI-generated profile pictures.
 
-- 🌐 [LinkedIn]([#](https://www.linkedin.com/in/tales-leonidas/))  
-- 💬 [Hugging Face]([#](https://huggingface.co/TLeonidas))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tales-leonidas/)
+- 💬 [Hugging Face](https://huggingface.co/TLeonidas)
