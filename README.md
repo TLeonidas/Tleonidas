@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm a sophomore at Houston Community College (HCC) studying AI, and passionate about leveraging Machine Learning into innovative and reliable business solutions. 
+I'm a sophomore at Houston Community College (HCC) studying AI. I'm passionate about leveraging Machine Learning techniques for social good. 
 Here's a quick overview of my background and interests:
 
 ### 💻 Skills
