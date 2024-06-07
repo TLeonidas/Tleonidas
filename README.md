@@ -11,7 +11,4 @@ Here's a quick overview of my background and interests:
 - **Soft Skills**: Communication, leadership, teamwork, organization
 
 ### 🔭 AI Project
-- **Detecting Harmful Text in Online Platforms**: Developed a model that achieved 92.5% accuracy, significantly outperforming existing solutions, presented at the annual Gulf Coast Conference & Expo on AI, 2024.  
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tales-leonidas/)
-- 🤗 [Hugging Face](https://huggingface.co/TLeonidas)
+- **Detecting Harmful Text in Online Platforms**: Developed a model that achieved 92.5% accuracy, significantly outperforming existing solutions, presented at the annual Gulf Coast Conference & Expo on AI, 2024. 
