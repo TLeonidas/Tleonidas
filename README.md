@@ -1,13 +1,7 @@
 ## Hello there!
 
-I'm a sophomore at Houston Community College (HCC) studying AI, and passionate about leveraging it into innovative and reliable business solutions. 
+I'm a sophomore at Houston Community College (HCC) studying AI, and passionate about leveraging Machine Learning into innovative and reliable business solutions. 
 Here's a quick overview of my background and interests:
-
-### 📖 Certifications
-- **Dell Technologies**: Excel with Dell (Mentorship)
-- **AWS Academy**: Machine Learning through Application - Dec 2023, Application of Deep Learning to Text and Image Data - May 2024  
-- **Coursera**: IBM Data Science Orientation, Data Science Tools, Data Science Methodology, and Python for Data Science and AI - 2023
-- **Ascend Education**: Intro to Virtualization
 
 ### 💻 Skills
 - **Platforms**: AWS, Azure, Google Colab, SageMaker Studio Lab, Hugging Face, GitHub  
