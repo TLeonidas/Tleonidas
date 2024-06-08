@@ -1,6 +1,7 @@
 ## Hello there!
 
 I'm a sophomore at Houston Community College (HCC) studying AI, and I am passionate about leveraging it for social good! 
+
 Here's a quick overview of my background and interests:
 
 ### 💻 Skills
