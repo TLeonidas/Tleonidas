@@ -13,7 +13,7 @@ Here's a quick overview of my background and interests:
 
 ### Relevant Projects 💡
 - **Detecting Harmful Text in Online Platforms**: Developed a model that achieved 92.5% accuracy, significantly outperforming existing solutions, presented at the annual Gulf Coast Conference & Expo on AI, 2024. 
-- **Localized Air Quality Monitoring**: Created a Python script that retrieves AQI data from the OpenWeatherMap API based on user-inputted locations. The script converts the location to coordinates, retrieves the AQI, and provides the current air quality condition. This project, showcased during the April '24 Hackathon hosted by HCC's Computer Science Association, aimed to provide real-time air quality data to residents and policymakers in areas affected by industrial pollution.
+- **Air Quality Monitor**: Created a Python script that retrieves Air Quality Index (AQI) data from the OpenWeatherMap API based on user-inputted locations. The script converts the location to coordinates, retrieves the AQI, and provides the current air quality condition. It aimed to provide real-time air quality data to residents and policymakers in areas affected by industrial pollution for health and safety purposes. This project awarded me 5th place on a Hackathon hosted by HCC's Computer Science Association.
 
 ### Interests 🌟
 - **AI for Social Good**: Using AI to solve real-world problems and improve quality of life.
