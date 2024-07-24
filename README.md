@@ -1,10 +1,6 @@
 ## Hello there!
 
-I'm a sophomore at Houston Community College (HCC) studying AI, and I am passionate about leveraging it for social good!
-
-On this phase of my career transition from the military, I seek an internship to leverage my skills and experience to collaborate in researching, developing, and applying reliable AI solutions.
-
-Here's a quick overview of my background and interests:
+I am Tales and after seven years in the military, I am studying AI to leverage it for social good.
 
 ### 💻 
 - **Platforms**: AWS, Azure, Google Colab, SageMaker Studio Lab, Hugging Face, GitHub  
@@ -21,3 +17,7 @@ Here's a quick overview of my background and interests:
 - **AI for Social Good**: Using AI to solve real-world problems and improve quality of life.
 - **Sustainability**: Applying AI to environmental and sustainability challenges.
 - **Philosophy and Ethics**: Exploring the philosophical and ethical implications of AI and technology.
+
+[LinkedIn](https://www.linkedin.com/in/tales-leonidas/).
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/tales-leonidas/)
