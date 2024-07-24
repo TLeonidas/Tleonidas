@@ -2,8 +2,7 @@
 
 I am Tales and after seven years in the military, I am studying AI to leverage it for social good.
 
-### 💻 
-- **Platforms**: AWS, Azure, Google Colab, SageMaker Studio Lab, Hugging Face, GitHub  
+- Platforms: AWS, Azure, Google Colab, SageMaker Studio Lab, Hugging Face, GitHub  
 - **Languages**: Python, SQL
 - **Architectures and Frameworks**: PyTorch, CNN, Transformers
 - **Tools and Libraries**: Scikit-learn, NLTK, torchvision, Numpy, Pandas, Matplotlib, Gradio  
