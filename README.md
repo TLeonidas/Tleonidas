@@ -18,6 +18,7 @@ I am Tales and after seven years in the military, I am studying AI to leverage i
 - **Sustainability**: Applying AI to environmental and sustainability challenges.
 - **Philosophy and Ethics**: Exploring the philosophical and ethical implications of AI and technology.
 
-[LinkedIn](https://www.linkedin.com/in/tales-leonidas/).
-
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/tales-leonidas/)
+<a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" style="width:30px;height:30px;">
+</a>
+[LinkedIn](https://www.linkedin.com/in/tales-leonidas/)
