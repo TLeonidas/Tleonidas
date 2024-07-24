@@ -2,9 +2,9 @@
 
 I am Tales and after seven years in the military, I am studying AI to leverage it for social good.
 
--**Platforms**: AWS, Azure, Google Colab, SageMaker Studio Lab, Hugging Face, GitHub
--**Languages**: Python, SQL
--**Architectures and Frameworks**: PyTorch, CNN, Transformers
+-**Platforms**: AWS, Azure, Google Colab, SageMaker Studio Lab, Hugging Face, GitHub<br>
+-**Languages**: Python, SQL<br>
+-**Architectures and Frameworks**: PyTorch, CNN, Transformers<br>
 -**Tools and Libraries**: Scikit-learn, NLTK, torchvision, Numpy, Pandas, Matplotlib, Gradio  
 
 - **Detecting Harmful Text in Online Platforms**: Developed a model that achieved 92.5% accuracy, significantly outperforming existing solutions, presented at the annual Gulf Coast Conference & Expo on AI, 2024. 
