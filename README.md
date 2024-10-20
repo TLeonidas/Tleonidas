@@ -1,6 +1,6 @@
 ## Hello there!
 
-I am Tales and after seven years in the military, I am studying AI to leverage it for social good.
+I am Tales, an AI student with experience presenting an NLP project at an AI conference under Dell's mentorship, and developing an AI educational show for college television.
 
 **Platforms**: AWS, Azure, Google Colab, SageMaker Studio Lab, Hugging Face, GitHub<br>
 **Languages**: Python, SQL<br>
