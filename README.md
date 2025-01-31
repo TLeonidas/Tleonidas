@@ -1,8 +1,8 @@
 ## Hello there!
 
-I am an Artificial Intelligence student passionate about leveraging AI for social good. Under Dell Technologies mentorship, I presented a Natural Language Processing project at a regional AI conference, focusing on detecting harmful speech on online platforms.
+I am a purpose-driven person continuously upskilling to be impactful with data. 
 
-At HCC TV, I create content to educate audiences about AI, bridging the gap between technology and the public while addressing misconceptions and emphasizing its potential to benefit society.
+Graduating in Artificial Intelligence (A.A.S) at Houston Community College, I hold another degree in Foreign Trade, and served in the Air Force of Brazil for seven years, being five as a Security Sergeant at the Alcantara Space Center.
 
 **Platforms**: AWS, Azure, GitHub, Colab, Hugging Face<br>
 **Languages**: Python, SQL, Linux<br>
