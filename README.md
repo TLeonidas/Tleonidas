@@ -1,6 +1,6 @@
 ## Hello there!
 
-I am a purpose-driven professional, constantly upskilling to create meaningful impact through data.
+Artificial Intelligence practitioner with expertise in Computer Vision and NLP, demonstrated by building a flower classification model (85% validation accuracy) and presenting an NLP project at a regional AI conference (92.5% F1 score). Led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television, applying Generative AI across text, audio, image, and video.
 
 **Platforms**: AWS, Azure, GitHub, Colab, Hugging Face<br>
 **Languages**: Python, SQL, Linux<br>
