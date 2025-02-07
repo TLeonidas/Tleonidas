@@ -1,6 +1,8 @@
 ## Hello there!
 
-Artificial Intelligence practitioner with expertise in Computer Vision and NLP, demonstrated by building a flower classification model and presenting an NLP project at a regional AI conference. Led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television, applying Generative AI across text, audio, image, and video. Now, while I work on my next projects, feel free to take a look at some of my previous ones.
+Artificial Intelligence practitioner with expertise in Computer Vision and NLP, demonstrated by building a flower classification model and presenting an NLP project at a regional AI conference. Led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television, applying Generative AI across text, audio, image, and video. 
+
+Now, while I work on my next projects, feel free to take a look at some of my previous ones and connect if you'd like.
 
 **Platforms**: AWS, Azure, GitHub, Colab, Hugging Face<br>
 **Languages**: Python, SQL, Linux<br>
