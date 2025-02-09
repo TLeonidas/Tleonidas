@@ -2,13 +2,12 @@
 <p>
   I am an Artificial Intelligence practitioner with expertise in Computer Vision and NLP, demonstrated by building a flower classification model and presenting an NLP project at a regional AI conference.
   <br><br>
-  Led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television, applying Generative AI across text, audio, image, and video.
+  I led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television, applying Generative AI across text, audio, image, and video.
   <br><br>
-  Now, while I work on my next projects, feel free to take a look at some of my previous ones and connect on
+  Let's connect! 
   <a href="https://www.linkedin.com/in/tales-leonidas/" target="_blank">
-    <img src="assets/linkedinlogo.png" alt="LinkedIn" style="width:33px; height:33px; vertical-align:middle;">
+    <img src="assets/linkedinlogo.png" alt="LinkedIn" style="width:30px; height:30px; vertical-align:middle;">
   </a>
-  if you'd like.
 </p>
 
 ---
