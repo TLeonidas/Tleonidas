@@ -1,10 +1,14 @@
 <h1>Hello there! 👋</h1>
 <p>
-    Artificial Intelligence practitioner with expertise in Computer Vision and NLP, demonstrated by building a flower classification model and presenting an NLP project at a regional AI conference. 
-    <br><br>
-    Led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television, applying Generative AI across text, audio, image, and video.
-    <br><br>
-    Now, while I work on my next projects, feel free to take a look at some of my previous ones and connect if you'd like.
+  Artificial Intelligence practitioner with expertise in Computer Vision and NLP, demonstrated by building a flower classification model and presenting an NLP project at a regional AI conference.
+  <br><br>
+  Led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television, applying Generative AI across text, audio, image, and video.
+  <br><br>
+  Now, while I work on my next projects, feel free to take a look at some of my previous ones and connect on
+  <a href="https://www.linkedin.com/in/tales-leonidas/" target="_blank">
+    <img src="assets/linkedinlogo_extended.png" alt="LinkedIn" style="width:43px; height:43px; vertical-align:middle;">
+  </a>
+  if you'd like.
 </p>
 
 ---
@@ -32,13 +36,3 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tleonidas&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
-
-<div>
-  <a href="https://www.linkedin.com/in/tales-leonidas/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=16" 
-      alt="LinkedIn Badge" 
-      style="height:40px;" 
-    />
-  </a>
-</div>
