@@ -29,11 +29,11 @@
 [![Tales' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tleonidas&theme=github_dark )](https://github.com/Tleonidas/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tleonidas&theme=github_dark )
 <!-- Center the "Top Langs" card -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tleonidas&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/tales-leonidas/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=16" 
