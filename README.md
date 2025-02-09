@@ -6,7 +6,7 @@
   <br><br>
   Now, while I work on my next projects, feel free to take a look at some of my previous ones and connect on
   <a href="https://www.linkedin.com/in/tales-leonidas/" target="_blank">
-    <img src="assets/linkedinlogo_extended.png" alt="LinkedIn" style="width:43px; height:43px; vertical-align:middle;">
+    <img src="assets/linkedinlogo.png" alt="LinkedIn" style="width:33px; height:33px; vertical-align:middle;">
   </a>
   if you'd like.
 </p>
