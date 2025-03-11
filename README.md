@@ -1,8 +1,8 @@
 <h1>Hello there! 👋</h1>
 <p>
-  I am an Artificial Intelligence practitioner with expertise in Computer Vision and NLP, demonstrated by building a flower classification model and presenting an NLP project at a regional AI conference.
+  I am an Artificial Intelligence practitioner with experience in Computer Vision and NLP. My main projects include a flower classification model with 96% accuracy, and a hate-speech classifier with 92.5% F1-Score, which I deployed for inference and presented at a regional AI conference.
   <br><br>
-  I led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television, applying Generative AI across text, audio, image, and video.
+  I also led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television as part of a co-op/internship, applying Generative AI across text, audio, image, and video.
   <br><br>
   Let's connect! 
   <a href="https://www.linkedin.com/in/tales-leonidas/" target="_blank">
