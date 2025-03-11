@@ -27,11 +27,3 @@
 - [**Detecting Harmful Text in Online Platforms**](https://huggingface.co/spaces/AIGulfCoast2024/Hate_Speech_Text_Classifier): Developed a model that achieved 92.5% accuracy, significantly outperforming existing solutions, presented at the annual Gulf Coast Conference & Expo on AI, 2024.<br>
 
 - [**Air Quality Monitor**](https://github.com/TLeonidas/HCC-CSA-Hackathon): Created a Python script that retrieves Air Quality Index (AQI) data from the OpenWeatherMap API based on user-inputted locations. The script converts the location to coordinates, retrieves the AQI, and provides the current air quality condition. This project earned me 5th place on a Hackathon hosted by HCC's Computer Science Association.
-
-
-[![Tales' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tleonidas&theme=github_dark )](https://github.com/Tleonidas/github-readme-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tleonidas&theme=github_dark )
-<!-- Center the "Top Langs" card -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tleonidas&layout=compact&theme=github_dark" alt="Top Langs" />
-</p>
