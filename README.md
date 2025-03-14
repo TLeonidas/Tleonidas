@@ -1,6 +1,6 @@
 <h1>Hello there! 👋</h1>
 <p>
-  I am an Artificial Intelligence practitioner with experience in Computer Vision and NLP. My main projects include a flower classification model with 96% accuracy, and a hate-speech classifier with 92.5% F1-Score, which I deployed for inference and presented at a regional AI conference.
+  I am an Artificial Intelligence practitioner with experience in Computer Vision and NLP. My main projects include a flower classification model with 97.3% accuracy, and a hate-speech classifier with 92.5% F1-Score, which I deployed for inference and presented at a regional AI conference.
   <br><br>
   I also led an engineering team on a NASA proposal (top 7 submissions), and produced and hosted an AI educational show for college television as part of a co-op/internship, applying Generative AI across text, audio, image, and video.
   <br><br>
@@ -22,7 +22,7 @@
 ---
 ## Featured Projects
 
-- [**Flower Classification with Deep Learning**](https://github.com/TLeonidas/uk-flower-classification): For my final project of the AI Programming with Python by Udacity, I applied transfer learning to classify 102 species of flowers by building a custom classifier on top of a VGG16-based neural network. Achieving 85% validation accuracy, I also built a complete training and inference pipeline, including a command-line application.
+- [**Flower Classification with Deep Learning**](https://github.com/TLeonidas/uk-flower-classification): For my final project of the AI Programming with Python by Udacity, I applied transfer learning to classify 102 species of flowers by building a custom classifier on top of a VGG16-based neural network. Achieving 97.3% validation accuracy, I also built a complete training and inference pipeline, including a command-line application.
 
 - [**Detecting Harmful Text in Online Platforms**](https://huggingface.co/spaces/AIGulfCoast2024/Hate_Speech_Text_Classifier): Developed a model that achieved 92.5% accuracy, significantly outperforming existing solutions, presented at the annual Gulf Coast Conference & Expo on AI, 2024.<br>
 
